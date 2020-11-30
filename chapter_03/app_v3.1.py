@@ -8,7 +8,7 @@ import pandas as pd
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
-poverty_data = pd.read_csv('/Users/Elias/Desktop/PovStats_csv/PovStatsData.csv')
+poverty_data = pd.read_csv('../data/PovStatsData.csv')
 
 regions = ['East Asia & Pacific', 'Europe & Central Asia',
            'Fragile and conflict affected situations', 'High income',

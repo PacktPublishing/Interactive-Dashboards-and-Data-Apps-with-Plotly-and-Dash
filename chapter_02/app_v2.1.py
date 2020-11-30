@@ -7,7 +7,7 @@ import pandas as pd
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
-poverty_data = pd.read_csv('/Users/Elias/Desktop/PovStats_csv/PovStatsData.csv')
+poverty_data = pd.read_csv('../data/PovStats_csv/PovStatsData.csv')
 
 app.layout = html.Div([
     html.H1('Poverty And Equity Database'),

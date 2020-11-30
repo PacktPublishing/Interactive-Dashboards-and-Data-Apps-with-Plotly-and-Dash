@@ -45,8 +45,8 @@ app.layout = html.Div([
     dbc.Row([
         dbc.Col([
             dcc.Dropdown(id='gini_year_dropdown',
-                         options=[{'label': y, 'value': y}
-                                  for y in poverty['year'].unique()]),
+                         options=[{'label': year, 'value': year}
+                                  for year in poverty['year'].unique()]),
             html.Br(),
             dcc.Graph(id='gini_year_barchart')
         ]),
@@ -58,7 +58,6 @@ app.layout = html.Div([
             dcc.Graph(id='gini_country_barchart')
         ]),
     ]),
-
 
     dbc.Tabs([
        dbc.Tab([
@@ -146,4 +145,4 @@ def plot_gini_country_barchart(country):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=1718)
+    app.run_server(debug=True, port=1111)

@@ -21,21 +21,3 @@ app.layout = html.Div([
         ])
     ])
 ])
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True)
-
-from jupyter_dash import JupyterDash
-import dash_html_components as html
-app = JupyterDash(__name__)
-
-app.layout = html.Div([
-    html.H1('Blah Blah Blah BlahBlah BlahBlah BlahBlah BlahBlah Blah')
-])
-
-if __name__ == '__main__':
-    app.run_server(mode='inline', port=1234, width=100)
-from dash.dependencies import Output, Input
-
-Input()

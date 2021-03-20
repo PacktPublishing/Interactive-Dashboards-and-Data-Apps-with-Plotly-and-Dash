@@ -612,4 +612,4 @@ def plot_country_charts(pathname, countries, indicator):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)

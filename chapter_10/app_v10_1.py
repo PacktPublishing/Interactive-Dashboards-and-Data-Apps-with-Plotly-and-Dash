@@ -18,6 +18,7 @@ from sklearn.impute import SimpleImputer
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.COSMO])
+server = app.server
 
 poverty_data = pd.read_csv('../data/PovStatsData.csv')
 poverty = pd.read_csv('../data/poverty.csv', low_memory=False)
@@ -499,4 +500,4 @@ def clustered_map(n_clicks, year, n_clusters, indicators):
     
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=1111)
+    app.run_server(debug=True)

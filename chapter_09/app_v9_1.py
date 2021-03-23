@@ -506,4 +506,4 @@ def clustered_map(year, n_clusters, indicators):
     
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=1111)
+    app.run_server(debug=True)

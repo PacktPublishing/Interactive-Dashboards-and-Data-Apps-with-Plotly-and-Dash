@@ -19,7 +19,7 @@ from sklearn.impute import SimpleImputer
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.COSMO])
-
+server = app.server 
 poverty_data = pd.read_csv('../data/PovStatsData.csv')
 poverty = pd.read_csv('../data/poverty.csv', low_memory=False)
 series = pd.read_csv('../data/PovStatsSeries.csv')

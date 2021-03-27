@@ -141,7 +141,7 @@ country_dashboard = html.Div([
                              value='Population, total',
                              options=[{'label': indicator, 'value': indicator}
                                      for indicator in poverty.columns[3:54]]),                
-            ]),
+            ], lg=6, md=11),
             dbc.Col([
                 dbc.Label('Select countries:'),
                 dcc.Dropdown(id='country_page_contry_dropdown',
@@ -149,7 +149,7 @@ country_dashboard = html.Div([
                              multi=True,
                              options=[{'label': c, 'value': c}
                                        for c in countries]),
-            ])
+            ], lg=6, md=11)
         ]),
         html.Br(), html.Br(),
         html.Div(id='country_table')
@@ -615,4 +615,4 @@ def plot_country_charts(pathname, countries, indicator):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)

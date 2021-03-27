@@ -18,7 +18,10 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.COSMO])
+app = dash.Dash(__name__, 
+                meta_tags=[{'name': 'viewport',
+                            'content': 'width=device-width, initial-scale=1.0, maximum-scale=4, minimum-scale=0.5,'}],
+                external_stylesheets=[dbc.themes.COSMO])
 server = app.server 
 poverty_data = pd.read_csv('../data/PovStatsData.csv')
 poverty = pd.read_csv('../data/poverty.csv', low_memory=False)

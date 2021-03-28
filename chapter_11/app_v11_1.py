@@ -427,7 +427,6 @@ def plot_gini_year_barchart(year):
                  y='Country Name', 
                  orientation='h',
                  height=200 + (n_countries*20), 
-                 width=650,
                  title=gini + ' ' + str(year))
     fig.layout.paper_bgcolor = '#E5ECF6'                 
     return fig

@@ -8,9 +8,8 @@ In this book, we go through **The World Bank**'s **Poverty and Equity Database**
 an interactive dashboard, that allows users to interactivley create the chart
 they want and make the comparisons they want.
 
-By the end of the book, you will have built and deployed a
-[Plotly Dash app](https://povertydata.org) online, which you can play with
-and see the available possibilities.
+By the end of the book, you will have built and deployed this
+[Plotly Dash app](https://povertydata.org) online, which is available for you to test and play with.
 
 Although every chapter builds on previous chapters, each new functionality is
 first built as a mini independent app, and works on its own. These can be found

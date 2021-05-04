@@ -54,7 +54,7 @@ This Plotly Dash book is for data professionals and data analysts who want to ga
 
 You will need a system with a good internet connection and an AWS account.
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://static.packt-cdn.com/downloads/9781800568914_ColorImages.pdf](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://static.packt-cdn.com/downloads/9781800568914_ColorImages.pdf] (Graphics Bundle Link).
 
 ## Code in Action
 

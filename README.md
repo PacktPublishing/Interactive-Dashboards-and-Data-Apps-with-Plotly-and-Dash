@@ -60,7 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[https://bit.ly/3vaXYQJ](www.youtube.com/URL)
+[https://bit.ly/3vaXYQJ]
 
 ### Related products <Other books you may enjoy>
 * Hands-On Data Visualization with Bokeh [[Packt]](https://www.packtpub.com/product/hands-on-data-visualization-with-bokeh/9781789135404) [[Amazon]](https://www.amazon.com/dp/B07DWG4T95)

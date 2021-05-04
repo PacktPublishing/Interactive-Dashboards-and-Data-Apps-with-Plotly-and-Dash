@@ -9,17 +9,16 @@ This is the code repository for [Interactive Dashboards and Data Apps with Plotl
 ## What is this book about?
 With Plotly's Dash framework, it is now easier than ever for Python programmers to develop complete data apps and interactive dashboards. Dash apps can be used by a non-technical audience, and this will make data analysis accessible to a much wider group of people. This book will help you to explore the functionalities of Dash for visualizing data in different ways and getting the most out of it.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Find out how to run a fully interactive and easy-to-use app
 * Convert your charts to various formats including images and HTML files
 * Use Plotly Express and the grammar of graphics for easily mapping data to various visual attributes
 * Create different chart types, such as bar charts, scatter plots, histograms, maps, and more
 * Expand your app by creating dynamic pages that generate content based on URLs
-* Implement new callbacks to manage charts based on URLs and vice versa
 
 Learn how to build a fully customized dashboard using a real-life dataset.
 
-In this book, we go through **The World Bank**'s **Poverty and Equity Database** to build
+In this book, we also go through **The World Bank**'s **Poverty and Equity Database** to build
 an interactive dashboard, that allows users to interactivley create the chart
 they want and make the comparisons they want.
 

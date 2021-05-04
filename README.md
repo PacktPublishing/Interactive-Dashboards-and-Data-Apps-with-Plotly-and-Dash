@@ -67,7 +67,7 @@ Click on the following link to see the Code in Action:
 
 * Expert Data Visualization [[Packt]](https://subscription.packtpub.com/book/web-development/9781786463494) [[Amazon]](https://www.amazon.com/dp/1786463490)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Elias Dabbas**
 is an online marketing and data science practitioner. He produces open-source software for building dashboards, data apps, as well as software for online marketing, with a focus on SEO, SEM, crawling, and text analysis.	
 

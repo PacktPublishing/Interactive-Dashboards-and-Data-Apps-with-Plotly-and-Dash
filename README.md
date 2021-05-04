@@ -1,4 +1,4 @@
-# Book Name
+# Interactive Dashboards and Data Apps with Plotly and Dash
 
 <a href="https://www.packtpub.com/product/interactive-dashboards-and-data-apps-with-plotly-and-dash/9781800568914?utm_source=github&utm_medium=repository&utm_campaign=9781800568914"><img src="https://static.packt-cdn.com/products/9781800568914/cover/smaller" alt="Interactive Dashboards and Data Apps with Plotly and Dash" height="256px" align="right"></a>
 

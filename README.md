@@ -50,12 +50,9 @@ gapminder
 **Following is what you need for this book:**
 This Plotly Dash book is for data professionals and data analysts who want to gain a better understanding of their data with the help of different visualizations and dashboards. Basic to intermediate-level knowledge of the Python programming language will help you to grasp the concepts covered in this book more effectively.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
-
 ### Software and Hardware List
 
 You will need a system with a good internet connection and an AWS account.
-
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://static.packt-cdn.com/downloads/9781800568914_ColorImages.pdf](Graphics Bundle Link).
 

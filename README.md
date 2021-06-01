@@ -68,9 +68,8 @@ Click on the following link to see the Code in Action: [https://bit.ly/3vaXYQJ]
 ## Get to Know the Author
 **Elias Dabbas**
 
-Elias is an online marketing and data science practitioner. Combining both fields, he produces open source software for building dashboards and data apps, as well as software for online marketing. He is the author and maintainer of [`advertools`](https://github.com/eliasdabbas/advertools), a Python library that provides various digital marketing tools, with a focus on SEO, SEM, crawling, and text analysis.
+is an online marketing and data science practitioner. Combining both fields, he produces open source software for building dashboards and data apps, as well as software for online marketing. He is the author and maintainer of [`advertools`](https://github.com/eliasdabbas/advertools), a Python library that provides various digital marketing tools, with a focus on SEO, SEM, crawling, and text analysis.
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
 
 
